@@ -1,7 +1,7 @@
-# 💫 About Me:
-🎓 **About Me:**  <br>I am an **AI/ML Student** passionate about designing and deploying intelligent systems to solve real-world problems. With expertise in **machine learning**, **deep learning**, **natural language processing**, and **graph-based AI**. I bring a solid foundation in **data handling** and **backend development** to create scalable, impactful solutions. My work bridges the gap between theory and practical implementation, delivering cutting-edge applications in diverse domains.
+## 💫 About Me:
+I am an **AI/ML Student** passionate about designing and deploying intelligent systems to solve real-world problems. With expertise in **machine learning**, **deep learning**, **natural language processing**, and **graph-based AI**. I bring a solid foundation in **data handling** and **backend development** to create scalable, impactful solutions. My work bridges the gap between theory and practical implementation, delivering cutting-edge applications in diverse domains.
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
@@ -25,7 +25,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-### 🔬 Featured Projects:
+## 🔬 Featured Projects:
 - **[Geopolitics Dynamics Analysis](https://github.com/TheAditya700/Geopolitical_Dynamics_Analysis)**: Developed a **Retrieval-Augmented Generation (RAG)** pipeline to analyze UN voting patterns and socio-economic data, providing in-depth geopolitical insights.  
 - **[BEST AI Labs](https://github.com/your-repo-link](https://github.com/TheAditya700/bestlabs))**: Designed hands-on AI/ML labs for students, focusing on predictive analytics, rule-based systems, and learning algorithms.  
 - **[Testimony Based Criminal Sketch Generator](https://github.com/your-repo-link](https://github.com/TheAditya700/Testimony-to-Sketch))**: Transforms eyewitness testimonies into police sketches using **Whisper**, **LLaMA**, and **Stable Diffusion**.  
@@ -36,7 +36,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TheAditya700&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAditya700&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAditya700&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TheAditya700&icon=0&color=0)](https://visitcount.itsvg.in)
