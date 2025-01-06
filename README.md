@@ -1,4 +1,4 @@
-## 💫 About Me:
+# 💫 About Me:
 I am an **AI/ML Student** passionate about designing and deploying intelligent systems to solve real-world problems. With expertise in **machine learning**, **deep learning**, **natural language processing**, and **graph-based AI**. I bring a solid foundation in **data handling** and **backend development** to create scalable, impactful solutions. My work bridges the gap between theory and practical implementation, delivering cutting-edge applications in diverse domains.
 
 ## 💻 Tech Stack:
