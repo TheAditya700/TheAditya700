@@ -35,11 +35,11 @@ I am an **AI/ML Student** passionate about designing and deploying intelligent s
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aditya-hr) 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TheAditya700&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAditya700&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## LeetCode Stats
+## 🧮 LeetCode Stats
 ![](https://leetcard.jacoblin.cool/AdityaHR?theme=dark&font=Baloo%202&border=0)
 
 ---
