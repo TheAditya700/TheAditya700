@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an **AI/ML Student** passionate about designing and deploying intelligent systems to solve real-world problems. With expertise in **machine learning**, **deep learning**, **natural language processing**, and **graph-based AI**. I bring a solid foundation in **data handling** and **backend development** to create scalable, impactful solutions. My work bridges the gap between theory and practical implementation, delivering cutting-edge applications in diverse domains.
+I'm an **AI/ML enthusiast** passionate about designing and deploying intelligent systems to address real-world challenges. My focus is on **deep learning**, **natural language processing**, and **graph-based AI**, backed up by a strong foundation in **data handling** and **backend development**. I strive to bridge the gap between theoretical concepts and practical implementation to develop scalable and impactful solutions across diverse domains.
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
