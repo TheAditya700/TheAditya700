@@ -27,9 +27,10 @@ I am an **AI/ML Student** passionate about designing and deploying intelligent s
 
 ## 🔬 Featured Projects:
 - **[Geopolitics Dynamics Analysis](https://github.com/TheAditya700/Geopolitical_Dynamics_Analysis)**: Developed a **Retrieval-Augmented Generation (RAG)** pipeline to analyze UN voting patterns and socio-economic data, providing in-depth geopolitical insights.  
-- **[BEST AI Labs](https://github.com/your-repo-link](https://github.com/TheAditya700/bestlabs))**: Designed hands-on AI/ML labs for students, focusing on predictive analytics, rule-based systems, and learning algorithms.  
-- **[Testimony Based Criminal Sketch Generator](https://github.com/your-repo-link](https://github.com/TheAditya700/Testimony-to-Sketch))**: Transforms eyewitness testimonies into police sketches using **Whisper**, **LLaMA**, and **Stable Diffusion**.  
-- **[Financial Asset Management System](https://github.com/TheAditya700/stockapp)**: Built a portfolio optimization platform leveraging **ML models** for risk assessment, real-time data integration, and dynamic optimization.
+- **[BEST AI Labs](https://github.com/TheAditya700/bestlabs)**: Designed hands-on AI/ML labs for students, focusing on predictive analytics, rule-based systems, and learning algorithms.  
+- **[Testimony Based Criminal Sketch Generator](https://github.com/TheAditya700/Testimony-to-Sketch)**: Transforms eyewitness testimonies into police sketches using **Whisper**, **LLaMA**, and **Stable Diffusion**.  
+- **[Financial Asset Management System](https://github.com/TheAditya700/stockapp)**: Built a portfolio optimization platform leveraging **ML models** for risk assessment, real-time data integration, and dynamic optimization.  
+- **[UNO Game](https://github.com/TheAditya700/uno_game)**: A command-line implementation of the classic UNO card game in C, supporting multiple players and core game mechanics such as skip, reverse, draw two, and wild cards.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aditya-hr) 
@@ -37,6 +38,9 @@ I am an **AI/ML Student** passionate about designing and deploying intelligent s
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TheAditya700&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAditya700&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## LeetCode Stats
+![](https://leetcard.jacoblin.cool/AdityaHR?theme=dark&font=Baloo%202&border=0)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TheAditya700&icon=0&color=0)](https://visitcount.itsvg.in)
