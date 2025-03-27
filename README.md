@@ -30,6 +30,7 @@ I'm an **AI/ML enthusiast** passionate about designing and deploying intelligent
 - **[BEST AI Labs](https://github.com/TheAditya700/bestlabs)**: Designed hands-on AI/ML labs for students, focusing on predictive analytics, rule-based systems, and learning algorithms.  
 - **[Testimony Based Criminal Sketch Generator](https://github.com/TheAditya700/Testimony-to-Sketch)**: Transforms eyewitness testimonies into police sketches using **Whisper**, **LLaMA**, and **Stable Diffusion**.  
 - **[Financial Asset Management System](https://github.com/TheAditya700/stockapp)**: Built a portfolio optimization platform with a strong focus on SQL database management, utilizing MySQL for efficient portfolio and transaction tracking, data storage, and real-time market integration.
+-  **[Negative Transfer in Multi-Task NLP Learning](https://github.com/TheAditya700/NegativeTransferLearningNLP)**: Analyzed the effects of negative transfer using **ALBERT-based models** for **multi-task learning** across NLP tasks, demonstrating the impact of task similarity on model performance.
 - **[UNO Game](https://github.com/TheAditya700/uno_game)**: A command-line implementation of the classic UNO card game in C, supporting multiple players and core game mechanics such as skip, reverse, draw two, and wild cards.
 
 ## 🌐 Socials:
