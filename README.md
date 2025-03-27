@@ -29,7 +29,7 @@ I'm an **AI/ML enthusiast** passionate about designing and deploying intelligent
 - **[Geopolitics Dynamics Analysis](https://github.com/TheAditya700/Geopolitical_Dynamics_Analysis)**: Developed a **Retrieval-Augmented Generation (RAG)** pipeline to analyze UN voting patterns and socio-economic data, providing in-depth geopolitical insights.  
 - **[BEST AI Labs](https://github.com/TheAditya700/bestlabs)**: Designed hands-on AI/ML labs for students, focusing on predictive analytics, rule-based systems, and learning algorithms.  
 - **[Testimony Based Criminal Sketch Generator](https://github.com/TheAditya700/Testimony-to-Sketch)**: Transforms eyewitness testimonies into police sketches using **Whisper**, **LLaMA**, and **Stable Diffusion**.  
-- **[Financial Asset Management System](https://github.com/TheAditya700/stockapp)**: Built a portfolio optimization platform leveraging **ML models** for risk assessment, real-time data integration, and dynamic optimization.  
+- **[Financial Asset Management System](https://github.com/TheAditya700/stockapp)**: Built a portfolio optimization platform with a strong focus on SQL database management, utilizing MySQL for efficient portfolio and transaction tracking, data storage, and real-time market integration.
 - **[UNO Game](https://github.com/TheAditya700/uno_game)**: A command-line implementation of the classic UNO card game in C, supporting multiple players and core game mechanics such as skip, reverse, draw two, and wild cards.
 
 ## 🌐 Socials:
