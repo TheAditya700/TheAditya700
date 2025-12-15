@@ -23,10 +23,11 @@ I’m an AI/ML engineer focused on building scalable, production-grade machine l
 
 
 ## 🔬 Featured Projects:
+- **[NerdType](https://github.com/TheAditya700/flowtype)**: FlowType: Built an interpretability-first adaptive typing system using keystroke-level telemetry, FAISS retrieval, and a contextual Thompson Sampling bandit with custom hierarchical loss to personalize motor-skill learning beyond WPM.
 - **[Geopolitics Dynamics Analysis](https://github.com/TheAditya700/Geopolitical_Dynamics_Analysis)**: Developed a **Retrieval-Augmented Generation (RAG)** pipeline to analyze UN voting patterns and socio-economic data, providing in-depth geopolitical insights.  
 - **[BEST AI Labs](https://github.com/TheAditya700/bestlabs)**: Designed hands-on AI/ML labs for students, focusing on predictive analytics, rule-based systems, and learning algorithms.  
 - **[Testimony Based Criminal Sketch Generator](https://github.com/TheAditya700/Testimony-to-Sketch)**: Transforms eyewitness testimonies into police sketches using **Whisper**, **LLaMA**, and **Stable Diffusion**.  
-- **[Financial Asset Management System](https://github.com/TheAditya700/stockapp)**: Built a portfolio optimization platform with a strong focus on SQL database management, utilizing MySQL for efficient portfolio and transaction tracking, data storage, and real-time market integration.
+- **[StockStock](https://github.com/TheAditya700/stockapp)**: Built a portfolio optimization platform with a strong focus on SQL database management, utilizing MySQL for efficient portfolio and transaction tracking, data storage, and real-time market integration.
 -  **[Negative Transfer in Multi-Task NLP Learning](https://github.com/TheAditya700/TransferLearningNLP)**: Analyzed the effects of negative transfer using **ALBERT-based models** for **multi-task learning** across NLP tasks, demonstrating the impact of task similarity on model performance.
 - **[UNO Game](https://github.com/TheAditya700/uno_game)**: A command-line implementation of the classic UNO card game in C, supporting multiple players and core game mechanics such as skip, reverse, draw two, and wild cards.
 
