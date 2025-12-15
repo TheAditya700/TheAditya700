@@ -23,7 +23,7 @@ I’m an AI/ML engineer focused on building scalable, production-grade machine l
 
 
 ## 🔬 Featured Projects:
-- **[NerdType](https://github.com/TheAditya700/flowtype)**: FlowType: Built an interpretability-first adaptive typing system using keystroke-level telemetry, FAISS retrieval, and a contextual Thompson Sampling bandit with custom hierarchical loss to personalize motor-skill learning beyond WPM.
+- **[NerdType](https://github.com/TheAditya700/flowtype)**: Built an interpretability-first adaptive typing system using keystroke-level telemetry, FAISS retrieval, and a contextual Thompson Sampling bandit with custom hierarchical loss to personalize motor-skill learning beyond WPM.
 - **[Geopolitics Dynamics Analysis](https://github.com/TheAditya700/Geopolitical_Dynamics_Analysis)**: Developed a **Retrieval-Augmented Generation (RAG)** pipeline to analyze UN voting patterns and socio-economic data, providing in-depth geopolitical insights.  
 - **[BEST AI Labs](https://github.com/TheAditya700/bestlabs)**: Designed hands-on AI/ML labs for students, focusing on predictive analytics, rule-based systems, and learning algorithms.  
 - **[Testimony Based Criminal Sketch Generator](https://github.com/TheAditya700/Testimony-to-Sketch)**: Transforms eyewitness testimonies into police sketches using **Whisper**, **LLaMA**, and **Stable Diffusion**.  
